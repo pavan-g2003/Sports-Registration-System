@@ -1,0 +1,1 @@
+A simple and functional Sports Event Registration System built with HTML, CSS, JavaScript, and PHP. This system allows users (students or participants) to register for various sports events online. It also provides an admin interface to manage and view registrations.
